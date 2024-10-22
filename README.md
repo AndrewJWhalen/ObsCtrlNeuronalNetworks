@@ -23,7 +23,7 @@ Unzip the file in a new directory folder.
 
 We offer these codes so that others may replicate and build upon our findings. Please cite the PRX paper (DOI: 10.1103/PhysRevX.5.011005) from which these original results were published if you make use of these codes, or modify them for your own data and research.
 
-Andrew Whalen
-Center for Neural Engineering
-The Pennsylvania State University
+Andrew Whalen,
+Center for Neural Engineering,
+The Pennsylvania State University,
 November, 2014
